@@ -85,12 +85,6 @@ resolver problemas y mejorar mis habilidades como profesional.
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&include_all_commits=true)
-
----
-
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/richard-darío-enríquez-pérez-761510319)
